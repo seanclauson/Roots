@@ -1,0 +1,336 @@
+{
+	"org-libraries": [{
+			"code": "LOC",
+			"name": "Library of Congress",
+			"url-home": "https://www.loc.gov/",
+			"url-collections-digital": "https://www.loc.gov/collections/"
+		},
+		{
+			"code": "",
+			"name": "Arizona State Library, Archives, & Public Records",
+			"url-home": "https://azlibrary.gov/",
+			"url-collections-digital": "https://azmemory.azlibrary.gov/digital/custom/collectiondirectory"
+
+		}
+	],
+	"org-histsocieties": [{
+			"code": "AL",
+			"name": "Alabama Historical Commission",
+			"url-home": "https://ahc.alabama.gov/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "AL-DOAH",
+			"name": "Alabama Department of Archives & History",
+			"url-home": "http://digital.archives.alabama.gov/cdm/",
+			"url-collections-digital": "http://digital.archives.alabama.gov/cdm/"
+
+		},
+		{
+			"code": "AL",
+			"name": "Alabama Mosaic",
+			"url-home": "http://www.alabamamosaic.org/",
+			"url-collections-digital": "http://www.alabamamosaic.org/collections.php"
+		},
+		{
+			"code": "AK",
+			"name": "Alaska Historical Society",
+			"url-home": "https://alaskahistoricalsociety.org/",
+			"url-collections-digital": "https://vilda.alaska.edu/"
+		},
+		{
+			"code": "AZ",
+			"name": "Arizona Historical Society",
+			"url-home": "https://arizonahistoricalsociety.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "AR",
+			"name": "Arkansas Historical Association",
+			"url-home": "http://arkansashistoricalassociation.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "CA",
+			"name": "California Historical Society",
+			"url-home": "https://www.californiahistoricalsociety.org/",
+			"url-collections-digital": "http://digitallibrary.californiahistoricalsociety.org/object/root"
+		},
+		{
+			"code": "CO",
+			"name": "History Colorado",
+			"url-home": "https://www.historycolorado.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "CT",
+			"name": "Connecticut Historical Society",
+			"url-home": "https://chs.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "DE",
+			"name": "Delaware Historical Society",
+			"url-home": "https://dehistory.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "FL",
+			"name": "Florida Historical Society",
+			"url-home": "https://myfloridahistory.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "GA",
+			"name": "Georgia Historical Society",
+			"url-home": "https://georgiahistory.com/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "HI",
+			"name": "Hawaiian Historical Society",
+			"url-home": "https://www.hawaiianhistory.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "ID",
+			"name": "Idaho State Historical Society",
+			"url-home": "https://history.idaho.gov/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "IL",
+			"name": "Illinois State Historical Society",
+			"url-home": "http://www.historyillinois.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "IN",
+			"name": "Indiana Historical Society",
+			"url-home": "https://indianahistory.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "IA",
+			"name": "State Historical Society of Iowa",
+			"url-home": "https://iowaculture.gov/history/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "KS",
+			"name": "Kansas State Historical Society",
+			"url-home": "https://www.kshs.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "KY",
+			"name": "Kentucky Historical Society",
+			"url-home": "https://history.ky.gov/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "LA",
+			"name": "Louisiana Historical Society",
+			"url-home": "https://louisianahistoricalsociety.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "ME",
+			"name": "Maine Historical Society",
+			"url-home": "https://www.mainehistory.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "MD",
+			"name": "Maryland Historical Society",
+			"url-home": "https://www.mdhs.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "MA",
+			"name": "Massachusetts Historical Society",
+			"url-home": "http://www.masshist.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "MI",
+			"name": "Historical Society of Michigan",
+			"url-home": "http://hsmichigan.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "MN",
+			"name": "Minnesota Historical Society",
+			"url-home": "http://www.mnhs.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "MS",
+			"name": "Mississippi Historical Society",
+			"url-home": "http://www.mississippihistory.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "MO",
+			"name": "State Historical Society of Missouri",
+			"url-home": "https://shsmo.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "MT",
+			"name": "Montana Historical Society",
+			"url-home": "https://mhs.mt.gov/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "NE",
+			"name": "Nebraska State Historical Society",
+			"url-home": "https://history.nebraska.gov/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "NV",
+			"name": "Nevada Historical Society",
+			"url-home": "http://nvculture.org/historicalsociety/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "NH",
+			"name": "New Hampshire Historical Society",
+			"url-home": "https://www.nhhistory.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "NJ",
+			"name": "New Jersey Historical Society",
+			"url-home": "https://jerseyhistory.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "NM",
+			"name": "Historical Society of New Mexico",
+			"url-home": "https://www.hsnm.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "NY",
+			"name": "New York Historical Society",
+			"url-home": "https://www.nyhistory.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "NC",
+			"name": "North Carolina State Historic Preservation Office",
+			"url-home": "https://www.ncdcr.gov/state-historic-preservation-office",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "ND",
+			"name": "State Historical Society of North Dakota",
+			"url-home": "https://www.history.nd.gov/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "OH",
+			"name": "Ohio Historical Society",
+			"url-home": "https://www.ohiohistory.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "OK",
+			"name": "Oklahoma Historical Society",
+			"url-home": "https://www.okhistory.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "OR",
+			"name": "Oregon Historical Society",
+			"url-home": "https://www.ohs.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "PA",
+			"name": "Historical Society of Pennsylvania",
+			"url-home": "https://hsp.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "RI",
+			"name": "Rhode Island Historical Society",
+			"url-home": "https://www.rihs.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "SC",
+			"name": "South Carolina Historical Society",
+			"url-home": "https://schistory.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "SD",
+			"name": "South Dakota State Historical Society",
+			"url-home": "https://history.sd.gov/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "TN",
+			"name": "Tennessee Historical Commission",
+			"url-home": "https://www.tn.gov/environment/about-tdec/tennessee-historical-commission.html",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "TX",
+			"name": "Texas State Historical Association",
+			"url-home": "https://www.tshaonline.org/home/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "UT",
+			"name": "Utah State Historical Society",
+			"url-home": "https://history.utah.gov/utah-state-historical-society/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "VT",
+			"name": "Vermont Historical Society",
+			"url-home": "https://vermonthistory.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "VA",
+			"name": "Virginia Historical Society",
+			"url-home": "https://www.virginiahistory.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "WA",
+			"name": "Washington State Historical Society",
+			"url-home": "http://www.washingtonhistory.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "WV",
+			"name": "West Virginia Division of Culture and History",
+			"url-home": "http://www.wvculture.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "WI",
+			"name": "Wisconsin Historical Society",
+			"url-home": "https://www.wisconsinhistory.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "WY",
+			"name": "Wyoming State Historical Society",
+			"url-home": "https://wyshs.org/",
+			"url-collections-digital": ""
+		},
+		{
+			"code": "DC",
+			"name": "Historical Society of Washington, D.C.",
+			"url-home": "http://www.dchistory.org/",
+			"url-collections-digital": ""
+		}
+	]
+}

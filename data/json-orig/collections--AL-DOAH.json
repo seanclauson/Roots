@@ -1,0 +1,231 @@
+{
+	"source-org-name": "Alabama Department of Archives & History",
+	"source-org-code": "AL-DOAH",
+	"listing-url": "http://digital.archives.alabama.gov/cdm/",
+	"access-date": "2019-08-05",
+	"collections": [{
+			"title": "Alabama Photographs and Pictures Collection",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/photo",
+			"tags-media": "Media-Photos",
+			"tags-subject": "",
+			"description": "The Alabama Photographs and Pictures Collection includes over 20,000 images covering a a wide range of topics, places, and individuals from throughout the state's history. Explore the collection using either the search box above or the suggested topics below. For other images from the Alabama Archives, see the Jim Peppler Southern …"
+		},
+		{
+			"title": "Alabama Textual Materials Collection",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/voices",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "This collection contains a selection of textual materials such as letters, diaries, minutes, fliers, clippings, and excerpts from books. State publications, the Alabama Historical Quarterly, the Alabama Official and Statistical Register, and the History of Alabama and Dictionary of Alabama Biography are in separate collections."
+		},
+		{
+			"title": "Alabama Maps Collection",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/maps",
+			"tags-media": "Media-Maps",
+			"tags-subject": "",
+			"description": "This collection contains a sampling of maps from the extensive holdings at the Alabama Department of Archives and History. The maps span 300 years, documenting not only Alabama's geographic past, but also that of the region, nation, and continent. For information about maps that have not yet been digitized, see the ADAH maps …"
+		},
+		{
+			"title": "Jim Peppler Southern Courier Photograph Collection",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/peppler",
+			"tags-media": "Media-Photos",
+			"tags-subject": "",
+			"description": "James H. “Jim” Peppler, a native of Philadelphia, Pennsylvania, was a staff photographer of the weekly paper, The Southern Courier, from July 1965 to mid-1968. Founded by staff members of The Harvard Crimson, the Courier recruited a biracial staff of both students and professional journalists from many parts of the country, with the …"
+		},
+		{
+			"title": "Alabama Media Group Collection",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/amg",
+			"tags-media": "Media-Photos",
+			"tags-subject": "",
+			"description": "In December 2016 Alabama Media Group (AMG) donated its collection of historical photographic negatives to the Alabama Department of Archives and History. This collection contains more than 3 million negatives taken by newspaper photographers working for the Birmingham News, the Huntsville Times, and Mobile’s Press-Register between …"
+		},
+		{
+			"title": "Alabama Posters Collection",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/p17217coll1",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "This collection contains posters from the holdings at the Alabama Department of Archives and History. The collection is particularly strong in World War I material, which was actively acquired by Archives staff in the 1910s and 1920s. Use the link below to browse all the items, or choose from the list of topics that are well represented …"
+		},
+		{
+			"title": "Alabama Folklife Collection",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/folk",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "This collection features a selection of images and audio recordings from the Archive of Alabama Folk Culture (AAFC). The AAFC was established in 2007 in order to house and make available the body of fieldwork gathered by the Alabama Folklife Association and the Alabama Center for Traditional Culture. The AAFC continues to receive and …"
+		},
+		{
+			"title": "Alabama World War I Service Records",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/p17217coll3",
+			"tags-media": "",
+			"tags-subject": "War-WW1",
+			"description": "This collection consists of index cards with personal details about Alabamians who served in the armed forces during World War I. Information recorded may include name, race, age, date and place of birth, home address, date and location of induction, units served in, rank, engagements, wounds, dates and locations of service, date of …"
+		},
+		{
+			"title": "Alabama Genealogy and History Publications",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/hgpub",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "To commemorate Alabama's bicentennial, the genealogical and historical community has partnered with the Alabama Bicentennial Commission and the Alabama Department of Archives and History (ADAH) to create a portal to publications documenting the story of the state's people and its past. Much of this collection will consist of …"
+		},
+		{
+			"title": "Alabama Legislative Acts, Journals, and Constitutions",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/legislature",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "The Alabama Legislative Acts, Journals, and Constitutions Collection consists of the nineteenth century House and Senate journals; the nineteenth and twentieth century acts; and the six state constitutions and related material. "
+		},
+		{
+			"title": "Alabama Governors' Executive Orders Collection",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/executive",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "This collection includes executive orders issued by Alabama governors from 1943 to the near present. It is updated following the conclusion of each fiscal year or the conclusion of a gubernatorial administration. Enter keywords in the box above to search the contents of the orders, or browse by governor from the list below."
+		},
+		{
+			"title": "Alabama Civil War and Reconstruction Newspapers",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/cwnp",
+			"tags-media": "",
+			"tags-subject": "War-AmericanCivilWar",
+			"description": "In honor of the Civil War and Reconstruction sesquicentennials the Alabama Department of Archives and History undertook a project to make all of its newspapers from that era available online. These issues have been digitized from microfilm. The quality varies greatly, depending on the condition of the original paper and the film; …"
+		},
+		{
+			"title": "Alabama History Education Materials",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/lessons",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "The Alabama History Education Materials Collection features instructional activities and lesson plans that were created from the collections of the Alabama Department of Archives and History. The materials in this collection cover topics in Alabama History from the First Alabamians to the modern Civil Rights Movement and more. These …"
+		},
+		{
+			"title": "Alabama Audiovisual Collection",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/records",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "This collection consists of recordings and videos from the collections of the Alabama Department of Archives and History."
+		},
+		{
+			"title": "Alabama Museum Collection",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/museum",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "This collection features a selection of artifacts from the museum collection at the Alabama Department of Archives and History. Most of the items are also on display in the galleries of the Museum of Alabama: "
+		},
+		{
+			"title": "History of Alabama and Dictionary of Alabama Biography",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/dictionary",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "The History of Alabama and Dictionary of Alabama Biography, written by Thomas McAdory Owen, was published in 1921 by the S.J. Clarke Publishing Company. The company had approached Dr. Owen in 1911 with a proposal that he produce a history and biographical dictionary of the state. Dr. Owen had begun gathering materials and writing a …"
+		},
+		{
+			"title": "Alabama Historical Quarterly",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/quarterly",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "Collection contains the 119 issues of the Alabama Historical Quarterly published by the Alabama Department of Archives and History in 1930 and between 1940 and 1982."
+		},
+		{
+			"title": "Alabama Official and Statistical Register",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/register",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "Collection contains the twenty-one editions of the Alabama Official and Statistical Register published by the Alabama Department of Archives and History between 1903 and 1979."
+		},
+		{
+			"title": "Alabama Writers' Project Collection",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/wpa",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "The Works Progress Administration (WPA), the principal relief agency of the second New Deal, was an attempt to provide work rather than welfare during the Great Depression. Under the WPA, buildings, roads, airports and schools were constructed. Actors, painters, musicians and writers were employed through the Federal Theater …"
+		},
+		{
+			"title": "Southern Poverty Law Center Reports",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/splc",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "This collection contains the newsletter of the Southern Poverty Law Center published from 1973 to the present."
+		},
+		{
+			"title": "Athens State University",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/p17217coll10",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "This collection contains over 500 newspapers published by the students of Athens State University, Alabama’s oldest continuously operating institution of higher education. Beginning in 1822 as Athens Female Academy, Athens State University has formerly been called Athens Female Institute, Athens Female College, Athens College, etc. The …"
+		},
+		{
+			"title": "Autauga County Heritage Association",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/p17217coll2",
+			"tags-media": "Media-Photographs",
+			"tags-subject": "",
+			"description": "This collection consists of images from the Daniel Pratt / Continental Gin Archives held by the Autauga County Historical Association. For more information about these historical records (which include documents, photographs, and engineering drawings), contact the ACHA: http://www.autaugahistory.org/contact-us.html."
+		},
+		{
+			"title": "B.B. Comer Library",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/sylacauga",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "Avondale Edward Akin Oral History Tapes Eddie Akin, a doctoral student of Dr. Wayne Flynt, conducted interviews with textile workers throughout Alabama during the 1970s and 1980s.The staff of the B.B. Comer Library digitized and made available what Dr. Flynt  calls “an unmatched collection of oral history tapes about a single textile …"
+		},
+		{
+			"title": "Birmingham Civil Rights Institute",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/bcri",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "On March 6, 1965 – one day before the demonstration now known as Bloody Sunday took place in Selma, Alabama -- seventy-two white citizens from throughout Alabama gathered on the steps of the Dallas County Courthouse to demonstrate support for the planned Selma-to-Montgomery voting rights march.  An off-shoot of the interracial Alabama …"
+		},
+		{
+			"title": "Cobb Memorial Archives",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/p17217coll5",
+			"tags-media": "Media-Photos,Media-Maps",
+			"tags-subject": "",
+			"description": "Founded in 1976, Cobb Memorial Archives serves Chambers County, Alabama and West Point, Georgia. Dedicated to preserving and making accessible the history of the Chattahoochee Valley area, the archives collects documents, photographs, scrapbooks, church histories, civic club records, maps, and other local materials of enduring value. For …"
+		},
+		{
+			"title": "Franelich Collection",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/franelich",
+			"tags-media": "Media-Photos",
+			"tags-subject": "",
+			"description": "Photographs and documents relating to Mobile, Alabama, extending from 1851 to the early 1950s. Subjects include the construction and completion of the Mobile & Ohio Railroad Terminal and the N. Franelich Terminal Grocery and Saloon building across from the Terminal. Everyone identified in the collection lived in Mobile during this …"
+		},
+		{
+			"title": "Historic Mobile Preservation Society",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/hmps",
+			"tags-media": "Media-Photos",
+			"tags-subject": "",
+			"description": "Photographs of Albert Sandoz, William E. Wilson Collection"
+		},
+		{
+			"title": "Montgomery County Archives",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/p17217coll8",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "Freedmen's Bureau Labor Contracts, John Dowe Collection, Montgomery County Slave Holder Affidavits"
+		},
+		{
+			"title": "Northeast Alabama Community College",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/nacc1",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "Describe your collection for visitors to your site."
+		},
+		{
+			"title": "University of West Alabama",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/uwa",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "Describe your collection for visitors to your site."
+		},
+		{
+			"title": "The Wiregrass Archives",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/wire01",
+			"tags-media": "",
+			"tags-subject": "",
+			"description": "Describe your collection for visitors to your site."
+		},
+		{
+			"title": "Alabama Military Home Address Reports",
+			"url": "http://digital.archives.alabama.gov/cdm/landingpage/collection/p17217coll16",
+			"tags-media": "",
+			"tags-subject": "War-General",
+			"description": "Describe your collection for visitors to your site."
+		}
+	]
+}
