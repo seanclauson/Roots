@@ -1,0 +1,227 @@
+[
+    {
+        "id": "f2ec395c-a761-4f1d-a94a-915b814ca60f",
+        "name": "Alaska's Digital Archives",
+        "url-home": "https://vilda.alaska.edu",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/digital/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/digital/collection/<set-spec>/search"
+    },
+    {
+        "id": "e8fb1f46-629c-40c3-8f37-d2ec48bf8a90",
+        "name": "University of Arkansas Digital Collections",
+        "url-home": "http://digitalcollections.uark.edu",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/cdm/landingpage/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/cdm/search/collection/<set-spec>"
+    },
+    {
+        "id": "06e2cf26-74b4-468e-ba25-504298a288d0",
+        "name": "CARLI Digital Collections",
+        "url-home": "http://collections.carli.illinois.edu",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/cdm/landingpage/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/cdm/search/collection/<set-spec>"
+    },
+    {
+        "id": "e0e68200-ddde-4d1c-bd5a-71d0f5695acc",
+        "name": "CLiC Digital Collections",
+        "url-home": "https://cdm16120.contentdm.oclc.org",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/digital/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/digital/collection/<set-spec>/search"
+    },
+    {
+        "id": "e375e09c-fcfb-4213-b2a3-76635cc0c625",
+        "name": "Lehigh University",
+        "url-home": "https://cdm.lib.lehigh.edu",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/cdm/landingpage/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/cdm/search/collection/<set-spec>"
+    },
+    {
+        "id": "43a06370-5367-4cb9-87e9-77b67ec68638",
+        "name": "Ohio Memory",
+        "url-home": "https://ohiomemory.org",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/digital/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/digital/collection/<set-spec>/search"
+    },
+    {
+        "id": "fbe93a66-2845-433a-bcbb-c1c2869c22bd",
+        "name": "Claremont Colleges Digital Library",
+        "url-home": "http://ccdl.libraries.claremont.edu",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/cdm/landingpage/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/cdm/search/collection/<set-spec>"
+    },
+    {
+        "id": "37fecae6-a560-4330-8e9a-774a5e246d9e",
+        "name": "Digital Maryland",
+        "url-home": "https://collections.digitalmaryland.org",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/digital/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/digital/collection/<set-spec>/search"
+    },
+    {
+        "id": "520658a5-b704-45ce-985c-09c5e5b4bc2b",
+        "name": "Indiana Historical Society",
+        "url-home": "http://images.indianahistory.org",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/cdm/landingpage/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/cdm/search/collection/<set-spec>"
+    },
+    {
+        "id": "637fbdb3-3cc5-4845-96d9-1b14765c7a5a",
+        "name": "NM State University Digital Collections",
+        "url-home": "http://contentdm.nmsu.edu",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/cdm/landingpage/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/cdm/search/collection/<set-spec>"
+    },
+    {
+        "id": "fa03cd6f-fb14-4db6-b3eb-b9b47a727014",
+        "name": "USU Libraries Digital History Collection",
+        "url-home": "http://digital.lib.usu.edu",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/cdm/landingpage/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/cdm/search/collection/<set-spec>"
+    },
+    {
+        "id": "c13d5e92-9b80-49a2-9078-81f023740a47",
+        "name": "USC Digital Library",
+        "url-home": "http://digitallibrary.usc.edu",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/cdm/search/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/cdm/search/collection/<set-spec>"
+    },
+    {
+        "id": "1916ec92-0f35-49c2-988a-eb5df4bf978b",
+        "name": "KLN Digital Collections",
+        "url-home": "https://digital.klnpa.org",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/digital/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/digital/collection/<set-spec>/search"
+    },
+    {
+        "id": "a5519d13-4b12-40a4-aab2-c0c5434dd743",
+        "name": "GSU Digital Collections",
+        "url-home": "http://digitalcollections.library.gsu.edu",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/cdm/landingpage/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/cdm/search/collection/<set-spec>"
+    },
+    {
+        "id": "9b7466c3-2473-43df-afdc-c848872461ea",
+        "name": "Oscar Rennebohm Library Digital Collection",
+        "url-home": "https://digitalcollections.edgewood.edu",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/digital/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/digital/collection/<set-spec>/search"
+    },
+    {
+        "id": "76e1999b-630e-407b-915d-cfbd60845480",
+        "name": "UNLV Digital Collections",
+        "url-home": "http://d.library.unlv.edu",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/digital/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/digital/collection/<set-spec>/search"
+    },
+    {
+        "id": "a2cd3389-d264-41b1-bed6-efc777e53106",
+        "name": "American Ancestors Digital Collection",
+        "url-home": "http://digitalcollections.americanancestors.org",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/cdm/landingpage/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/cdm/search/collection/<set-spec>"
+    },
+    {
+        "id": "8d413328-fbe1-4c3f-93fe-7cf1d7d79dca",
+        "name": "Alliance Memory",
+        "url-home": "https://www.alliancememory.org",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/digital/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/digital/collection/<set-spec>/search"
+    },
+    {
+        "id": "f9df4a25-ed59-49f0-bb30-0c3daa1b165c",
+        "name": "University of South Carolina Digital Collections",
+        "url-home": "https://digital.tcl.sc.edu",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/digital/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/digital/collection/<set-spec>/search"
+    },
+    {
+        "id": "c019c34c-d48e-44c8-b705-5bb533f9e81a",
+        "name": "UTSA Libraries Digital Collections",
+        "url-home": "https://digital.utsa.edu",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/digital/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/digital/collection/<set-spec>/search"
+    },
+    {
+        "id": "5f350a6a-7667-4173-aada-ddb38d289a47",
+        "name": "WSA Libraries Digital Collection",
+        "url-home": "https://content.libraries.wsu.edu",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/digital/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/digital/collection/<set-spec>/search"
+    },
+    {
+        "id": "6f57ae85-0552-4bf5-aedd-843ced9aa342",
+        "name": "VMI Archives Digital Collections",
+        "url-home": "http://digitalcollections.vmi.edu",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/cdm/landingpage/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/cdm/search/collection/<set-spec>"
+    },
+    {
+        "id": "3cdf68dd-b518-44d0-a641-dbd7c2d24774",
+        "name": "UNCW Digital Collections",
+        "url-home": "http://digitalcollections.uncw.edu",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/digital/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/digital/collection/<set-spec>/search"
+    },
+    {
+        "id": "604770b6-b3ca-4b22-a479-ddd677d764d4",
+        "name": "Washington Rural Heritage",
+        "url-home": "https://www.washingtonruralheritage.org",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/digital/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/digital/collection/<set-spec>/search"
+    },
+    {
+        "id": "4d397546-a015-4140-8618-3ed73a8abe4a",
+        "name": "HBCU Digital Library",
+        "url-home": "https://hbcudigitallibrary.auctr.edu",
+        "oai-software": "CONTENTdm",
+        "url-template-oai-base": "<url-home>/oai/oai.php?",
+        "url-template-set-landing": "<url-home>/digital/collection/<set-spec>",
+        "url-template-set-items": "<url-home>/digital/collection/<set-spec>/search"
+    }
+]
